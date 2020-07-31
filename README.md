@@ -11,7 +11,7 @@
 
 ## Exploratory Data Analysis
 * I looked at the distributions of the data and the value counts for the various variables. Below are a few highlights from the tables.
-
+![](https://github.com/seblobubbleman/Restaurant-Revenue-Prediction/blob/master/image%204%20.png)
 
 
 ## Data Cleaning
