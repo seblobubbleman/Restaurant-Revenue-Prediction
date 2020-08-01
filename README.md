@@ -32,7 +32,7 @@ I tried five different models and evaluated them using R-squared.
 * **Ridge Regression** - Because of the sparse data from the categorical variables, I thought a normalized regression like lasso would be effective.
 * **Lasso Regression** – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 * **KNeighbors** - Just curious, but I realize that with the large database it is not likely to be a good fit
-* **Support Vector Rgression** -
+* **Support Vector Rgression** -Instead of minimising the error rate with normal regression, thought of trying to fit the error within a certain threshold
 
 ## Model Performance
 * **Multiple Linear Regression**: -0.240
@@ -42,4 +42,4 @@ I tried five different models and evaluated them using R-squared.
 * **Support Vector Regression**: 0.436
 
 ## Conclusion
-Based on the model performance, I choose the Support Vector Regression as my model. 
+Based on the model performance, I chose the Support Vector Regression as my model. 
